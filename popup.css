@@ -1,0 +1,14 @@
+html{
+    height:400px;
+    width:400px;
+}
+ body {
+    height:400px;
+    width:400px;
+    margin: 5px 10px 10px;
+  }
+  textarea {
+    white-space: pre;
+    overflow-wrap: normal;
+    overflow-x: scroll;
+  }  

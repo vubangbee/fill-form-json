@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "VBB - Điền form từ Json",
+  "version": "19.1126.0823",
+  "description": "Tiện ích Chrome - tự động điền form từ mã json",
+  "browser_action": {
+    "default_icon": "icon32.png",
+    "default_popup": "popup.html",
+    "default_title": "điền form từ json"
+  },
+  "permissions": [
+    "http://dvc.mt.gov.vn/*",
+    "activeTab",
+    "storage"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png",
+    "192": "icon192.png"
+  }
+}
